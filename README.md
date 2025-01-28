@@ -34,3 +34,12 @@ The model successfully generated accurate descriptions for simple images with cl
 - Depends on the quality and diversity of the training dataset.
 - Requires high computation and large resources.
 - Evaluation of descriptions is subjective, requiring improvement in evaluation metrics.
+
+
+## How to Run the Program
+<ol>
+    <li>Clone the repository.</li>
+    <li>Create a virtual environment.</li>
+    <li>Install dependencies from.</li>
+    <li>Download a model file and put it inside the assets folder. <a href="https://drive.google.com/file/d/1WRIGqXTTsL6vM0-PPo9Ce8Jwjw5gBxgR/view?usp=drive_link">Download Model</a>.</li>
+    <li>Run the app </li>
