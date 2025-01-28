@@ -44,4 +44,4 @@ The model successfully generated accurate descriptions for simple images with cl
     <li>Download a model file and put it inside the assets folder. <a href="https://drive.google.com/file/d/1WRIGqXTTsL6vM0-PPo9Ce8Jwjw5gBxgR/view?usp=drive_link">Download Model</a>.</li>
     <li>Run the app </li>
 
-# More Information : @anasafira579@gmail.com
+# More Information : anasafira579@gmail.com
